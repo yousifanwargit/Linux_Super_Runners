@@ -1,0 +1,12 @@
+this is a program to create a simple >> mv << command, the program called >> mymv <<
+
+/************************************************/
+*      use this command to build program         *
+*           >>>>     make    <<<<<               *
+/************************************************/
+
+/************************************************/
+*      use this command to install mymv          *
+*          >>>> make install <<<<<               *
+/************************************************/
+

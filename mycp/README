@@ -1,0 +1,12 @@
+this is a program to create a simple >> cp << command, the program called >> mycp <<
+
+/************************************************/
+*      use this command to build program         *
+*           >>>>     make    <<<<<               *
+/************************************************/
+
+/************************************************/
+*      use this command to install mycp          *
+*          >>>> make install <<<<<               *
+/************************************************/
+

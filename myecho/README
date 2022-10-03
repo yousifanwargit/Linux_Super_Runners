@@ -1,0 +1,12 @@
+this is a program to create a simple >> echo << command, the program called >> myecho <<
+
+/************************************************/
+*      use this command to build program         *
+*           >>>>     make    <<<<<               *
+/************************************************/
+
+/************************************************/
+*      use this command to install myecho        *
+*           >>>> make install <<<<<              *
+/************************************************/
+
